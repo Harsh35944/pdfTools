@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Read(//c/Users/Admin/AppData/Local/Temp/claude/c--pdf-image-tools/24479a38-862a-4a3e-8f0e-1d013b33e0f4/tasks/**)",
+      "Bash(Get-ChildItem -Path \"c:\\\\pdf-image-tools\" -Force)"
+    ]
+  }
+}
